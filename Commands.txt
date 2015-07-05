@@ -1,0 +1,10 @@
+
+Downloaded the Git Shell on Windows 7
+
+// first create a repository in ur github Account at github.com
+//copy the http clone url from the site
+
+cd 
+git clone https://github.com/ramyakumars/newGitTest.git
+
+// create a notepad file index.html in ur dir
